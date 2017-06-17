@@ -1,0 +1,36 @@
+
+*{
+    margin-top: 10px;
+    }
+header{
+        border-bottom: 2px solid #7d97ad;
+}
+body{
+    font-family: 'Slabo 27px', serif;
+    color: #2d3c494;
+    font-weight: 300;
+}
+.navbar-brand{
+    width: 90px;
+    font-size: 40px;
+    padding: 10px;
+    border: 5px solid #03b3e5;
+    margin: 0;
+    color: #03b3e5;
+    margin-top: 20px;
+}
+.text-muted{
+    color: #85929b;
+}
+.text-thin{
+    font-weight: 100;
+}
+.title-line{
+    border: 2px solid #7d97ad;
+}
+.social-icons{
+    margin-bottom: 10px;
+}
+.social-icons a{
+    margin-right: 10px;
+}
