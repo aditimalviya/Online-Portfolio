@@ -10,6 +10,9 @@ body{
     color: #2d3c494;
     font-weight: 300;
 }
+/* img {
+   border:1px solid #021a40;
+} */
 .navbar-brand{
     width: 90px;
     font-size: 40px;
